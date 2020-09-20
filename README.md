@@ -1,2 +1,1 @@
-# Gponeal12.github.io
-Greyson's GIS Portfilio
+# Greyson's GIS Portfolio
